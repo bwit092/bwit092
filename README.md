@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bwit092
 - 👀 I’m working on my B.S. Computer Science Degree @ WGU
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning java
 
 
 <!---
